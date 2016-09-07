@@ -1,0 +1,44 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.development.austin.insight.MainActivity" >
+
+    <group android:checkableBehavior="all">
+        <item
+            android:id="@+id/menu_navigation"
+            android:title="Navigation"/>
+        <item
+            android:id="@+id/menu_dashboard"
+            android:title="Dashboard"/>
+
+        <item
+            android:id="@+id/menu_see_all_map"
+            android:title="See All Map"/>
+    </group>
+
+    <item android:title="Account">
+        <menu>
+            <item
+                android:id="@+id/menu_chat"
+                android:title="Chat" />
+            <item
+                android:id="@+id/menu_settings"
+                android:title="Settings" />
+            <item
+                android:id="@+id/menu_log_out"
+                android:title="Log out" />
+        </menu>
+    </item>
+
+    <item android:title="Location">
+        <menu>
+            <item
+                android:id="@+id/menu_add_location"
+                android:title="Add Location" />
+            <item
+                android:id="@+id/menu_add_link"
+                android:title="Create Link" />
+        </menu>
+    </item>
+
+</menu>

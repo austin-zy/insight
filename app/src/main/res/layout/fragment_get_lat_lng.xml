@@ -1,0 +1,18 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:mapbox="http://schemas.android.com/apk/res-auto"
+    tools:context="com.development.austin.insight.fragment.FragmentGetLatLng">
+
+    <com.mapbox.mapboxsdk.maps.MapView
+        android:id="@+id/mapview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        mapbox:access_token="@string/mapbox_accessToken"
+        mapbox:center_latitude="3.128"
+        mapbox:center_longitude="101.65"
+        mapbox:zoom="19"
+        android:layout_below="@+id/search_bar_row" />
+
+</FrameLayout>

@@ -1,0 +1,35 @@
+id,placeId,placeName,Building,Block,Floor,Tag,isExit,Owner,isToilet
+0,fsktm_b_0_0,Block B Main Entrance,fsktm,b,0,door;gate;entrance;exit;back;block b;b,1,,0
+1,fsktm_b_0_1,Block B Ground Stair A (Main Door),fsktm,b,0,stair;second floor;2nd,0,,0
+2,fsktm_b_0_2,Check Point 1,fsktm,b,0,,0,,0
+3,fsktm_b_0_3,Check Point 2,fsktm,b,0,,0,,0
+4,fsktm_b_0_4,Server Room 1,fsktm,b,0,server;room,0,,0
+5,fsktm_b_0_5,Check Point 3,fsktm,b,0,,0,,0
+6,fsktm_b_0_6,Dewan Kuliah 1 (DK1),fsktm,b,0,dk1; dewan;kuliah;1;satu;one;1;(DK1) ,0,,0
+7,fsktm_b_0_7,Lift,fsktm,b,0,stair;second;floor;2nd;lift,0,,0
+8,fsktm_b_0_8,Check Point 4,fsktm,b,0,,0,,0
+9,fsktm_b_0_9,Tutorial Room 1 (BT1),fsktm,b,0,bt1;bilik tutorial;satu;one;room 1,0,,0
+10,fsktm_b_0_10,Tutorial Room 2 (BT2),fsktm,b,0,bt2;bilik tutorial;dua;two;room;2,0,,0
+11,fsktm_b_0_11,Tutorial Room 3 (BT3),fsktm,b,0,bt3;bilik tutorial;tiga;three;tutorial;room;3,0,,0
+12,fsktm_b_0_12,Tutorial Room 4 (BT4),fsktm,b,0,bt4;bilik tutorial;empat;four;tutorial;room;4,0,,0
+13,fsktm_b_0_13,Tutorial Room 5 (BT5),fsktm,b,0,bt5;bilik tutorial;lima;five;tutorial;room;5,0,,0
+14,fsktm_b_0_14,Tutorial Room 6 (BT6),fsktm,b,0,bt6;bilik tutorial;enam;six;tutorial;room;6,0,,0
+15,fsktm_b_0_15,Lecturer's Office,fsktm,b,0,lecturer,0,,0
+16,fsktm_b_0_16,Lecturer's Office,fsktm,b,0,lecturer,0,,0
+17,fsktm_b_0_17,Dewan Kuliah 1 (DK1),fsktm,b,0,dk1; dewan;kuliah;1;satu;one;1;(dk1) ,0,,0
+18,fsktm_b_0_18,Dewan Kuliah 2 (DK2),fsktm,b,0,dk2; dewan;kuliah;2;dua;two;2;(dk2) ,0,,0
+19,fsktm_b_0_19,Dewan Kuliah 2 (DK2),fsktm,b,0,dk2; dewan;kuliah;2;dua;two;2;(dk2) ,0,,0
+20,fsktm_b_0_20,Boole Lab (MM3),fsktm,b,0,mm3;boole;makmal;lab;3;tiga;three,0,,0
+21,fsktm_b_0_21,Von Neuman Lab (MM4),fsktm,b,0,mm4;Von Neuman;makmal;lab;4;empat;four,0,,0
+22,fsktm_b_0_22,Technical Office,fsktm,b,0,technician;office;technical,0,,0
+23,fsktm_b_0_23,Toilet (Female),fsktm,b,0,toilet;female;ladies;washroom,0,,1
+24,fsktm_b_0_24,Toilet (Male),fsktm,b,0,toilet;male;gentleman;washroom,0,,1
+25,fsktm_b_0_25,Check Point 5,fsktm,b,0,,1,,0
+26,fsktm_b_0_26,Lab 5 (MM5),fsktm,b,0,mm5;makmal;lab;5;lima;five,0,,0
+27,fsktm_b_0_27,Lecturer's Office,fsktm,b,0,lecturer;por;poh;lip;yee;dr;l.y.,0,,0
+28,fsktm_b_0_28,Lecturer's Office,fsktm,b,0,lecturer;por;ang;tan;fong;dr;t.f;t.f.,0,Dr Por L.Y,0
+29,fsktm_b_0_29,Lecturer's Office,fsktm,b,0,,0,Dr Ang T.F,0
+30,fsktm_b_0_30,Check Point 6,fsktm,b,0,,0,,0
+31,fsktm_b_0_31,Lab 6 (MM6),fsktm,b,0,mm6;makmal;lab;6;enam;six,0,,0
+32,fsktm_b_0_32,Gateway to Block A,fsktm,b,0,block;A;exit,1,,0
+33,fsktm_b_0_33,Check Point 6,fsktm,b,0,,0,,0

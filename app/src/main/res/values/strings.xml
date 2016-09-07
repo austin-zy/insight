@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Insight</string>
+    <string name="mapbox_accessToken">pk.eyJ1IjoiZ3p5NTk2NSIsImEiOiJjaW13eHYwa2kwM2QxdXJrazQzdTBjMzgzIn0.-CJwMxJHPCcwHNPZxZEmTQ</string>
+    <string name="login">Login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
